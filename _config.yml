@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "My Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이정식"
+name                     : "jungsik"
 description              : "An amazing website."
 url                      : "https://jungsik-lee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
